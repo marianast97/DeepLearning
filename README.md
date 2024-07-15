@@ -3,7 +3,7 @@
 Segmentation of X-ray images of rabbits.
 
 Students: 
-Mariana Steffens
+Mariana Steffens //
 Navya Reddy Tiyyagura
 
 This repository contains the code used for segmentation.
